@@ -27,7 +27,7 @@ const router = createBrowserRouter(
 
     <Route path='Midestic_jobs'  element= { <RootLayout/> } >
 
-  <Route index element= { <Home/> } />
+  <Route path='home' element= { <Home/> } />
   <Route path='about' element={ <About/> } />
 
 
