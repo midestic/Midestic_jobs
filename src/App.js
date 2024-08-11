@@ -25,7 +25,7 @@ import CareerError from './pages/careers/CareerError';
 const router = createBrowserRouter(
   createRoutesFromElements(
 
-    <Route path="/"  element= { <RootLayout/> } >
+    <Route path='/'  element= { <RootLayout/> } >
 
   <Route  path='home'  element= { <Home/> } />
   <Route path='about' element={ <About/> } />
