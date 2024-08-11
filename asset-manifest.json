@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Midestic_jobs/static/css/main.32e01a50.css",
+    "main.js": "/Midestic_jobs/static/js/main.27c2a1a8.js",
+    "static/js/453.86cb3404.chunk.js": "/Midestic_jobs/static/js/453.86cb3404.chunk.js",
+    "index.html": "/Midestic_jobs/index.html",
+    "main.32e01a50.css.map": "/Midestic_jobs/static/css/main.32e01a50.css.map",
+    "main.27c2a1a8.js.map": "/Midestic_jobs/static/js/main.27c2a1a8.js.map",
+    "453.86cb3404.chunk.js.map": "/Midestic_jobs/static/js/453.86cb3404.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e01a50.css",
+    "static/js/main.27c2a1a8.js"
+  ]
+}
